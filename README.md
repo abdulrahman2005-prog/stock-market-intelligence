@@ -211,8 +211,14 @@ The dashboard is implemented in:
 ```text
 dashboard.py
 ```
+## Live Demo
+
+The interactive dashboard is deployed using Streamlit Community Cloud.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abdulrahman-stock-market-analysis.streamlit.app/)
 
 ---
+
 
 ## Key Performance Indicators
 
