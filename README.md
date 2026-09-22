@@ -679,7 +679,7 @@ The application is deployed using **Streamlit Community Cloud**.
 
 ## 🌐 Live Application
 
-[Open Stock Market Intelligence Dashboard](YOUR_STREAMLIT_LINK)
+[Open Stock Market Intelligence Dashboard](https://abdulrahman-stock-market-intelligence.streamlit.app/)
 
 The application provides:
 
